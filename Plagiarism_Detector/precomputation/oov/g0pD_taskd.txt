@@ -1,0 +1,14 @@
+probba_NN
+since_IN
+theorm_VBP
+baye_VBZ
+papb_NN
+frequentist_NN
+upon_IN
+baye_NNS
+pba_NN
+probab_NN
+fracpb_NN
+frequentist_NNS
+thoma_NNS
+pab_NN

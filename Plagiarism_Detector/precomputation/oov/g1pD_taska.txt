@@ -1,0 +1,6 @@
+since_IN
+yo_NN
+predefined_VBN
+simulum_NN
+pre_NN
+etc_NN

@@ -1,0 +1,7 @@
+similiarity_NN
+abab_NN
+betweeen_NN
+keyword_NN
+keyword_NNS
+formulum_NN
+tf_JJ

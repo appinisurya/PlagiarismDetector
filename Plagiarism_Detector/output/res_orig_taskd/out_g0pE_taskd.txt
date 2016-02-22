@@ -1,0 +1,194 @@
+probability_NN theory_NN baye_VBZ theorem_NN often_RB call_VBN baye_NNS law_NN rev_NN thoma_NNS baye_VBZ relate_VBZ conditional_JJ marginal_JJ probability_NNS two_CD random_JJ event_NNS often_RB use_VBN compute_VB posterior_JJ probability_NNS give_VBN observation_NNS example_NN patient_NN may_MD observe_VBN certain_JJ symptom_NNS baye_NNS theorem_NN can_MD use_VBN compute_VB probability_NN propose_VBN diagnosis_NN correct_JJ give_VBN observation_NN see_VB example_NN formal_JJ theorem_NN baye_NNS theorem_NN valid_JJ common_JJ interpretation_NNS probability_NN however_RB play_VBZ central_JJ role_NN debate_NN around_IN foundation_NNS statistics_NNS frequentist_NN bayesian_JJ interpretation_NNS disagree_VBP way_NNS probability_NNS assign_VBN application_NNS frequentist_NNS assign_VBP probability_NNS random_JJ event_NNS accord_VBG frequency_NNS occurrence_NN subset_NNS population_NNS proportion_NNS whole_NN bayesian_NNS describe_VBP probability_NNS term_NNS belief_NNS degree_NNS uncertainty_NN article_NNS bayesian_JJ probability_NN frequentist_NN probability_NN discuss_VB debate_NNS greater_JJR detail_NN baye_NNS theorem_VBP relate_VBZ conditional_JJ marginal_JJ probability_NNS event_NNS non_NN vanish_VBG probability_NN pab_NN fracpb_NN papb_NN term_NN baye_NNS theorem_NN conventional_JJ name_NN pa_NN prior_JJ probability_NN marginal_JJ probability_NN prior_RB sense_NN take_VB account_NN information_NN pab_NN conditional_JJ probability_NN give_VBN also_RB call_VBN posterior_JJ probability_NN derive_VBN depend_VBZ upon_IN specify_VBN value_NN pba_NN conditional_JJ probability_NN give_VBN pb_NN prior_JJ marginal_JJ probability_NN act_NNS normalize_VBG constant_JJ intuitively_RB baye_VBZ theorem_NN form_NN describe_VBZ way_NN one_NNS belief_NNS observe_VBG update_VBN observe_VBN 
+
+baye_NNS theorem_NN important_JJ theorem_NN relate_VBG conditional_JJ probability_NNS allow_VBZ we_PRP calculate_VB probab_NN probba_NN baye_NNS theorem_NN important_JJ can_MD save_VB we_PRP gather_VBG vast_JJ amount_NNS statistical_JJ evidence_NN main_JJ theory_NN probab_JJ probba_NN proba_NN probb_JJ mean_VBZ use_VBG probwinrain_NN earlier_JJR can_MD find_VB probability_NN rain_VBD day_NN harry_NN win_VBD race_NN 
+
+File 1 Direct Fingerprint: 
+[986110, 1940414, 2894718, 3849022, 4803326, 5757630, 6711934, 7665990, 3110199, 10529150, 11483454, 12437758, 13392062, 14345963, 5172722, 17209061, 13576760, 20072190, 21026494, 21980798, 22935102, 23889406, 24843028, 6612238, 4575910, 17191298, 1848034, 28660554, 20410431, 22287729, 3907581, 4803295, 34385572, 2125081, 37249662, 38203966, 39158270, 40112574, 41066878, 42021182, 42975486, 43929449, 36602041, 14500250, 48701310, 49654343, 13423992, 15337374, 17393945, 52518526, 53472830, 54427134, 55381438, 56335742, 57290046, 58242800, 14900429, 61107262, 62061566, 63015219, 44403997, 2326798, 3048571, 65878782, 66772543, 8650333, 10529150, 11483516, 12441478, 13509180, 17976497, 3264052, 72558910, 73173020, 6663202, 6157747, 76376126, 76694558, 1314369, 3510316, 80193342, 81147646, 82101547, 70546700, 11134983, 1634847, 6140697, 3695014, 85919166, 86873470, 87827774, 88093599, 11135200, 1643961, 22334043, 12131819, 3910495, 92599294, 92448448, 2989950, 6804190, 96416510, 97369574, 63259592]
+
+File 1 Direct Sorted Fingerprint: 
+[986110, 1940414, 2894718, 3849022, 4803326, 3017850, 3048633, 3079416, 3110199, 10529150, 11483454, 5080373, 5111156, 5141939, 5172722, 13484411, 13515194, 13545977, 13576760, 20072190, 21026494, 21980798, 7266028, 3929436, 3920818, 1478917, 1478948, 1519341, 1848034, 20318454, 20111901, 4413036, 3925809, 3821060, 3821091, 2032732, 2063515, 2094298, 2125081, 37249662, 38203966, 39158270, 40112574, 41066878, 36510839, 14109991, 14438684, 14469467, 14500250, 13458557, 13423961, 13423992, 15337374, 17393945, 52518526, 53472830, 54427134, 55381438, 14808080, 14838863, 14869646, 14900429, 46361709, 2419984, 2371934, 999967, 1000618, 2392177, 3048571, 8620480, 6863803, 6806143, 10529150, 11483516, 1503407, 3202486, 3233269, 3264052, 3980028, 3981020, 3982012, 3417967, 1392179, 968378, 968409, 1394163, 3510316, 72835957, 13432703, 1356777, 1303550, 1125207, 1124246, 1124277, 1608652, 3695014, 85919166, 13946094, 1374292, 1304139, 1304170, 1393543, 1393574, 1407059, 3910495, 2987966, 2988958, 2989950, 6804190, 63169754, 26052152]
+
+File 2 Direct Fingerprint: 
+[6686762, 6888913, 6923478, 11607485, 16285664, 104050942, 105005246, 104573571, 6687537, 6913124, 30287558, 105128378, 109776766, 110731070, 111685374, 111001886, 5564128, 108114422, 116456894, 117411198, 118365502, 118274145, 30600317, 4895551]
+
+File 2 Direct Sorted Fingerprint: 
+[3823292, 3919423, 4068378, 11606493, 11607485, 16285664, 9882583, 4013756, 4008951, 3933807, 4664384, 30078990, 30172238, 105097595, 105128378, 109776766, 5480459, 5332496, 5333488, 108083639, 108114422, 116456894, 30631007, 1913475, 1914467, 4864768, 4895551]
+
+Direct Size of intersection: 0
+Direct Size of union: 128
+Direct Size of smaller set: 24
+Direct Size of larger set: 104
+Direct Jaccard: 0.000
+Direct Jaccard with smaller set: 0.000
+
+Stats after sorting
+
+Direct Size of intersection: 0
+Direct Size of union: 138
+Direct Size of smaller set: 27
+Direct Size of larger set: 111
+Direct Jaccard: 0.000
+Direct Jaccard with smaller set: 0.000
+
+
+Cluster IDs
+{describe_VBZ=7, probability_NN=6, observe_VBN=2, assign_VBP=4, assign_VBN=4, relate_VBZ=10, observe_VBG=2, specify_VBN=4, observation_NN=12, describe_VBP=7, debate_NNS=9, calculate_VB=1, way_NNS=3, use_VBN=8, find_VB=2, compute_VB=1, use_VBG=8, debate_NN=9, relate_VBG=10, term_NNS=11, probability_NNS=6, term_NN=11, depend_VBZ=1, see_VB=2, observation_NNS=12, way_NN=3}
+
+File 1 hash sequence:
+
+6 14 15 16 17 18 19 20 21 22 15 10 23 24 6 25 26 27 17 8 1 28 6 29 12 30 31 32 2 33 34 19 16 35 8 1 6 36 37 38 29 12 2 30 39 16 19 16 40 41 42 6 43 44 45 46 9 47 48 49 50 51 42 52 3 6 4 53 54 4 6 26 27 55 56 57 58 59 60 61 62 7 6 11 63 64 65 66 51 6 50 6 67 9 68 69 19 70 10 23 24 6 27 71 72 6 73 74 75 11 19 16 76 77 78 79 6 24 6 80 81 82 83 84 73 23 6 29 85 18 28 6 86 1 87 4 88 89 23 6 29 90 79 24 6 91 92 93 94 15 16 95 7 3 96 63 2 97 2 
+
+File 1 Fingerprint: 
+
+[5973111, 13392062, 14346366, 15300670, 16254974, 17209278, 18163582, 19117638, 14173572, 9943653, 6311724, 23889065, 15940014, 7445053, 1764334, 6417527, 12006765, 28659965, 2863408, 18057438, 15826740, 7424841, 1138010, 6650337, 34386440, 27142453, 11171873, 2778747, 15358981, 16008679, 38202819, 6865818, 41066878, 42020004, 9759513, 44884094, 45838398, 46792392, 40340083, 2954796, 5325025, 3898653, 6343344, 24870494, 26629155, 52518526, 53472830, 54427134, 55381438, 56335742, 57288310, 6655917, 5931354, 12099083, 60152958, 61106766, 47326553, 7038519, 7547880, 10404375, 19642592, 9943653, 6415946, 27119606, 7789308, 69610531, 10742492, 17116867, 72558910, 73160155, 6264356, 8004789, 76376126, 77330430, 78284362, 68108891, 21450233, 6487308, 17465958, 8106810, 3521910, 6401934, 21450388, 6494004, 29539962, 22433553, 8343402, 86873470, 87276160, 14420983, 6648229, 5691104]
+
+File 1 Sorted Fingerprint: 
+
+[5973111, 13392062, 14346366, 15300670, 16254974, 14469498, 9702938, 5861883, 6250158, 6280941, 6311724, 1179023, 1110823, 1130074, 5926425, 5927417, 2771555, 2445838, 7884168, 1178310, 1111040, 1111071, 1138010, 6650337, 2233581, 2233333, 2234573, 2353737, 15272460, 15272491, 6773469, 6804252, 6835035, 6865818, 9667164, 9697947, 9728730, 9759513, 40297272, 4072408, 2991283, 2897105, 2897136, 3865855, 3898653, 6343344, 24870494, 26629155, 52518526, 53472830, 54427134, 8312650, 5810206, 5762156, 5762187, 5931354, 12099083, 7124978, 7081733, 5769503, 5769999, 5859372, 5875740, 8945205, 9825512, 5861883, 6250220, 6284258, 6415946, 7727742, 7758525, 7789308, 10655971, 10656002, 15417788, 7912440, 6333517, 5745385, 5745416, 6335501, 8004789, 69942262, 23498093, 6299076, 6256451, 6107868, 6106907, 1131841, 1128028, 1129020, 4466604, 6256947, 6256978, 6334819, 6334850, 6346413, 8343402, 14421758, 6929833, 2997421, 1999934, 1970174]
+
+File 2 hash sequence:
+
+19 16 98 16 10 23 6 99 100 1 101 102 19 16 98 35 103 100 104 105 106 107 108 109 14 110 102 111 112 113 8 114 115 35 2 6 116 117 118 119 120 
+
+File 2 Fingerprint: 
+
+[17711540, 15096535, 9929238, 8586566, 4031023, 18118818, 17732682, 35491032, 95554555, 99279422, 100233726, 101188030, 101189735, 16307767, 97617078, 104709320, 10895942, 32392179, 2140891, 9112977]
+
+File 2 Sorted Fingerprint: 
+
+[9730280, 5855125, 1200506, 1589773, 15379038, 15916392, 35342046, 35404542, 95523772, 95554555, 99279422, 16224098, 16076135, 16077127, 10806104, 8543972, 3002846, 2062988, 2063019, 2140891, 9112977]
+
+Size of intersection: 0
+Size of union: 112
+Size of smaller set: 20
+Size of larger set: 92
+Jaccard: 0.000
+Jaccard with smaller set: 0.000
+
+Stats after sorting 
+
+Size of intersection: 0
+Size of union: 123
+Size of smaller set: 21
+Size of larger set: 102
+Jaccard: 0.000
+Jaccard with smaller set: 0.000
+
+1: compute_VB, depend_VBZ, calculate_VB
+2: see_VB, observe_VBN, observe_VBG, find_VB
+3: way_NNS, way_NN
+4: assign_VBP, assign_VBN, specify_VBN
+6: probability_NN, probability_NNS
+7: describe_VBZ, describe_VBP
+8: use_VBN, use_VBG
+9: debate_NN, debate_NNS
+10: relate_VBZ, relate_VBG
+11: term_NNS, term_NN
+12: observation_NN, observation_NNS
+14: theory_NN
+15: baye_VBZ
+16: theorem_NN
+17: often_RB
+18: call_VBN
+19: baye_NNS
+20: law_NN
+21: rev_NN
+22: thoma_NNS
+23: conditional_JJ
+24: marginal_JJ
+25: two_CD
+26: random_JJ
+27: event_NNS
+28: posterior_JJ
+29: give_VBN
+30: example_NN
+31: patient_NN
+32: may_MD
+33: certain_JJ
+34: symptom_NNS
+35: can_MD
+36: propose_VBN
+37: diagnosis_NN
+38: correct_JJ
+39: formal_JJ
+40: valid_JJ
+41: common_JJ
+42: interpretation_NNS
+43: however_RB
+44: play_VBZ
+45: central_JJ
+46: role_NN
+47: around_IN
+48: foundation_NNS
+49: statistics_NNS
+50: frequentist_NN
+51: bayesian_JJ
+52: disagree_VBP
+53: application_NNS
+54: frequentist_NNS
+55: accord_VBG
+56: frequency_NNS
+57: occurrence_NN
+58: subset_NNS
+59: population_NNS
+60: proportion_NNS
+61: whole_NN
+62: bayesian_NNS
+63: belief_NNS
+64: degree_NNS
+65: uncertainty_NN
+66: article_NNS
+67: discuss_VB
+68: greater_JJR
+69: detail_NN
+70: theorem_VBP
+71: non_NN
+72: vanish_VBG
+73: pab_NN
+74: fracpb_NN
+75: papb_NN
+76: conventional_JJ
+77: name_NN
+78: pa_NN
+79: prior_JJ
+80: prior_RB
+81: sense_NN
+82: take_VB
+83: account_NN
+84: information_NN
+85: also_RB
+86: derive_VBN
+87: upon_IN
+88: value_NN
+89: pba_NN
+90: pb_NN
+91: act_NNS
+92: normalize_VBG
+93: constant_JJ
+94: intuitively_RB
+95: form_NN
+96: one_NNS
+97: update_VBN
+98: important_JJ
+99: allow_VBZ
+100: we_PRP
+101: probab_NN
+102: probba_NN
+103: save_VB
+104: gather_VBG
+105: vast_JJ
+106: amount_NNS
+107: statistical_JJ
+108: evidence_NN
+109: main_JJ
+110: probab_JJ
+111: proba_NN
+112: probb_JJ
+113: mean_VBZ
+114: probwinrain_NN
+115: earlier_JJR
+116: rain_VBD
+117: day_NN
+118: harry_NN
+119: win_VBD
+120: race_NN

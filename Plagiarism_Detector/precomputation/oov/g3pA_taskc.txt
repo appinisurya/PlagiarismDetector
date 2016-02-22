@@ -1,0 +1,5 @@
+keyword_NN
+keyword_NNS
+aka_FW
+tf_JJ
+although_IN

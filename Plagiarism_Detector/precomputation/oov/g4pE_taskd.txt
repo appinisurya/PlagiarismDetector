@@ -1,0 +1,16 @@
+baye_VBZ
+baye_VBP
+papb_NN
+frequentist_NN
+upon_IN
+baye_NNS
+pba_NN
+keyword_NN
+sidf_NN
+fracpb_NN
+frequentist_NNS
+thoma_NNS
+without_IN
+sidf_JJ
+pab_NN
+something_NN

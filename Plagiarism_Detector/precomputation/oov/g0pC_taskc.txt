@@ -1,0 +1,13 @@
+inprove_VB
+inpact_NN
+comparism_NN
+inorder_NN
+incoperate_JJ
+wighting_NN
+keyword_NNS
+sceem_NNS
+comput_VB
+constucted_VBN
+ignoree_VBG
+tf_JJ
+vextor_NNS

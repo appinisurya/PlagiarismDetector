@@ -1,0 +1,7 @@
+since_IN
+yo_NN
+pre_VB
+simulum_NN
+whilst_IN
+pre_NN
+etc_NN

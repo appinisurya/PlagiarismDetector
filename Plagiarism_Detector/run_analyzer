@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd /home/surya/workspace/Plagiarism_Detector/ticcky-esalib-9a005a9
+if [[ "$1" != "" && "$2" != "" ]]; then
+        java -Xmx1024m -cp lib/*:/home/surya/workspace/Plagiarism_Detector/ticcky-esalib-9a005a9/esalib.jar clldsystem.esa.ESAAnalyzer "$1" "$2"
+else
+        java -Xmx1024m -cp /home/surya/workspace/Plagiarism_Detector/ticcky-esalib-9a005a9/lib/*:/home/surya/workspace/Plagiarism_Detector/ticcky-esalib-9a005a9/esalib.jar clldsystem.esa.ESAAnalyzer
+fi
+cd ..

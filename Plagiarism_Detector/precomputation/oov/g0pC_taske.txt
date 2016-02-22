@@ -1,0 +1,12 @@
+effiecent_JJ
+ieee_NN
+whenever_WRB
+subproblem_NN
+consecutavly_RB
+richard_NN
+recompute_VBG
+recursively_NN
+subproblem_NNS
+memoization_NN
+although_IN
+fibonaccus_JJ

@@ -1,0 +1,8 @@
+since_IN
+yo_NN
+simulum_NN
+via_IN
+whose_WP$
+whereas_IN
+pre_NN
+etc_NN

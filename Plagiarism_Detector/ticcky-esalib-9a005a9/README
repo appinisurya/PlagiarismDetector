@@ -1,0 +1,42 @@
+My implementation of Explicit Semantic Analysis (ESA) library that we used at KMi, Open University to produce our submission at the NTCIR-9 CrossLink task. 
+
+== Changelog ==
+7.12.2013
+ - fixed a few mistakes in the tutorial
+ - merged pull request fixing a problem on MacOS
+
+15.2.2013
+ - found out about problem with stemming - the example english background is stemmed by PorterStemmer, but my library uses SnowballStemmer; this results in a lot of OOV words and therefore low similarity scores
+ - added interactive mode to the analyzer - now you can pipe-in pairs of texts to compare (1 line = 1 text) and ESAAnalyzer produces the similarity scores
+ - added wikixray scripts that were missing from the tutorial
+
+7.10.2012 
+ - fixed a typo in analyzer bash script, causing only the first words to be analyzed; fixed handling of oov words; removed length filter (only words 3-100 chars long were considered)
+
+29.9.2012
+ - added support for SQLite, so that the library is better usable for fast prototyping
+
+25.3.2012
+ - initial release
+
+== Files ==
+ - /example - see example data in /example where you can find an ESA background built from Wikipedia snapshot from 2005, and directly use it in our tools for assessing semantic similarity of English textis/words.
+
+ - /tutorial - basic instructions for building your own background
+
+ - /lib - Java libraries required to run
+
+
+== So how to get ESA running in 2 minutes for English? ==
+0.
+        # git co https://github.com/ticcky/esalib.git
+        # cd esalib
+
+1. Create a symbolic link to the sample database
+        # ln -s example/esa_en.db esa_db.db
+
+2. Get relatedness estimate of two texts:
+        # ./run_analyzer "computer" "apple"
+
+
+Please don't hessitate to get in touch if you want to use my library but have troubles with it.

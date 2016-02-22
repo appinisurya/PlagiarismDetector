@@ -1,0 +1,4 @@
+keyword_NNS
+tf_JJ
+etc_NN
+stopword_NNS

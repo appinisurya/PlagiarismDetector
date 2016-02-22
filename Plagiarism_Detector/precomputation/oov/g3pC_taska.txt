@@ -1,0 +1,6 @@
+since_IN
+yo_NN
+ruit_NN
+simulum_NN
+pre_NN
+etc_NN

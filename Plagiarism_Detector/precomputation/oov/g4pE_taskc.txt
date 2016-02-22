@@ -1,0 +1,4 @@
+keyword_NN
+etvsm_NN
+keyword_NNS
+tf_JJ

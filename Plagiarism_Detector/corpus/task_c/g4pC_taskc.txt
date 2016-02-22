@@ -1,0 +1,6 @@
+The vector space model are the documents which are represented as bags of words. The basic idea is to represent each document as a vector of certain weighted word frequencies. In order to do so, the following parsing and extraction steps are needed. 
+Ignoring case, extract all unique words from the entire set of documents. 
+Eliminate non-content-bearing stopwords such as a, and, the, etc. For sample lists of stopwords.
+For each document, count the number of occurrences of each word. 
+Using heuristic or information-theoretic criteria, eliminate non-content-bearing high-frequency and low-frequency words. 
+After the above elimination, suppose unique words remain. Assign a unique identifier between and to each remaining word, and a unique identifier between and to each document.

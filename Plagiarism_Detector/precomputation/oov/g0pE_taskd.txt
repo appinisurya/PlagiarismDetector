@@ -1,0 +1,17 @@
+probba_NN
+baye_VBZ
+we_PRP
+proba_NN
+papb_NN
+frequentist_NN
+upon_IN
+baye_NNS
+probwinrain_NN
+pba_NN
+probab_NN
+fracpb_NN
+frequentist_NNS
+thoma_NNS
+probb_JJ
+pab_NN
+probab_JJ

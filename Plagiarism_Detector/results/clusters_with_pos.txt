@@ -1,0 +1,32 @@
+1: change_VBD, come_VBD, rise_VBG, become_VBD, turn_VBD
+2: factory_NN, factory_NNS
+3: larger_JJR, great_JJ, large_JJ
+4: expansion_NN, growth_NN, rise_NN, wave_NN, development_NNS, explosion_NN, fall_NN, increase_NN
+7: population_NN, trade_NN, factor_NNS, job_NNS, hand_NNS, commerce_NN, feature_NN, part_NN, laborer_NNS, farm_NN, production_NN, industry_NN
+9: center_NNS, country_NN, america_NN, city_NNS
+10: provide_VBN, power_VBN, drive_VBN
+12: three_CD
+13: late_JJ
+14: nineteenth_JJ
+15: century_NN
+16: american_JJ
+17: history_NN
+18: new_JJ
+19: steam_NN
+20: landscape_NN
+21: east_JJ
+22: transform_VBD
+23: industrial_JJ
+24: tide_NN
+25: immigrant_NNS
+26: urbanization_NN
+27: like_IN
+28: river_NN
+29: massachusett_NNS
+30: borden_NNS
+31: live_VBD
+32: well_RB
+33: company_NNS
+34: visible_JJ
+35: eastern_JJ
+36: worker_NNS

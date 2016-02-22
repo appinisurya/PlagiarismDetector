@@ -1,0 +1,6 @@
+since_IN
+yo_NN
+simulum_NN
+whereas_IN
+pre_NN
+etc_NN

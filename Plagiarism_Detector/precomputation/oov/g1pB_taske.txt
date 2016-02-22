@@ -1,0 +1,13 @@
+portably_JJ
+ieee_NN
+whenever_WRB
+perl_VB
+subproblem_NN
+referentially_JJ
+richard_NN
+recompute_VBG
+recursively_NN
+subproblem_NNS
+memoization_NN
+although_IN
+fibonaccus_JJ

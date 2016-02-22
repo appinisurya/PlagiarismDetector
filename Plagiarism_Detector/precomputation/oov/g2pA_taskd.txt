@@ -1,0 +1,12 @@
+since_IN
+among_IN
+baye_VBZ
+papb_NN
+frequentist_NN
+upon_IN
+baye_NNS
+pba_NN
+fracpb_NN
+frequentist_NNS
+thoma_NNS
+pab_NN

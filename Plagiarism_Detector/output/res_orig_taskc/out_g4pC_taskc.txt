@@ -1,0 +1,197 @@
+vector_NN space_NN model_NN term_NN vector_NN model_NN algebraic_JJ model_NN represent_VBG text_NN document_NNS object_NNS general_JJ vector_NNS identifier_NNS example_NN index_NN term_NNS use_VBN information_NN filter_VBG information_NN retrieval_NN indexing_NN relevancy_NN ranking_NNS first_JJ use_NN smart_JJ information_NN retrieval_NN system_NN document_NN represent_VBN vector_NN dimension_NN correspond_VBZ separate_JJ term_NN term_NN occur_VBZ document_NN value_NN vector_NN non_RB zero_CD several_JJ different_JJ way_NNS compute_VBG value_NNS also_RB know_VBN term_NN weight_NNS develop_VBN one_CD best_JJS know_VBN scheme_NNS tf_JJ idf_NN weighting_NN see_VBP example_NN definition_NN term_NN depend_VBZ application_NN typically_RB term_NNS single_JJ word_NNS keyword_NNS longer_JJR phrase_NNS word_NNS choose_VBN term_NNS dimensionality_NN vector_NN number_NN word_NNS vocabulary_NN number_NN distinct_JJ word_NNS occur_VBG corpus_NN vector_NN space_NN model_NN follow_VBG limitation_NNS long_RB document_NNS poorly_RB represent_VBN poor_JJ similarity_NN value_VBZ small_JJ scalar_NN product_NN large_JJ dimensionality_NN search_NN keyword_NNS must_MD precisely_RB match_VB document_NN term_NNS word_NN substring_NNS might_MD result_VB false_JJ positive_JJ match_NN semantic_JJ sensitivity_NN document_NNS similar_JJ context_NN different_JJ term_NN vocabulary_NN wont_NN associate_VBN result_VBG false_JJ negative_JJ match_NN order_NN term_NNS appear_VBP document_NN lose_VBN vector_NN space_NN representation_NN 
+
+vector_NN space_NN model_NN document_NNS represent_VBN bag_NNS word_NNS basic_JJ idea_NN represent_VB document_NN vector_NN certain_JJ weighted_JJ word_NN frequency_NNS order_NN follow_VBG parsing_NN extraction_NN step_NNS need_VBN ignore_VBG case_NN extract_VB unique_JJ word_NNS entire_JJ set_NN document_NNS eliminate_VB non_RB content_JJ bearing_NN stopword_NNS etc_NN sample_NN list_NNS stopword_NNS document_NN count_NN number_NN occurrence_NNS word_NN use_VBG heuristic_JJ information_NN theoretic_JJ criterion_NNS eliminate_VBP non_RB content_JJ bearing_NN high_JJ frequency_NN low_JJ frequency_NN word_NNS elimination_NN suppose_VB unique_JJ word_NNS remain_VBP assign_VB unique_JJ identifier_NN remain_VBG word_NN unique_JJ identifier_NN document_NN 
+
+File 1 Direct Fingerprint: 
+[986110, 1940290, 1017792, 2922587, 2956284, 5757630, 6711934, 7666238, 8620542, 9574846, 10529150, 11483454, 12437758, 13392062, 14346366, 15300608, 16253021, 16285757, 18163582, 19117886, 20072190, 21026494, 21980519, 16291709, 18348280, 24842842, 1817251, 27705754, 3844837, 4674366, 25920185, 1971166, 32478142, 33432446, 34386750, 35341054, 36295358, 37249662, 38202757, 5018776, 41066878, 42021027, 40235706, 44884094, 45838398, 46791493, 13560392, 5326606, 50608647, 15577686, 53472830, 54427134, 55381314, 54474285, 15702771, 2857115, 54609879, 60175061, 54671321, 988094, 2003902, 4864830, 64922525, 9532469, 28075987, 68741694, 69695998, 70650302, 71604606, 72558383, 59670009, 56027881, 76374390, 25464299, 16408827, 79239038, 80193342, 81147646, 82101950, 83056254, 84010558, 84370034, 10219460, 34353859, 5693987, 61999969, 89736072, 83324621, 85130371, 16831171, 27915190]
+
+File 1 Direct Sorted Fingerprint: 
+[986110, 1015901, 1015932, 2864927, 2925501, 2956284, 5757630, 6711934, 7666238, 8620542, 9574846, 10529150, 11483454, 12437758, 13392062, 14346366, 15299678, 16224191, 16254974, 16285757, 18163582, 19117886, 16408889, 16289725, 16290717, 1724902, 1755685, 1786468, 1817251, 3843039, 3840187, 1759653, 1760645, 1940383, 1971166, 32478142, 33432446, 34386750, 35341054, 4926427, 4957210, 4987993, 5018776, 40143357, 40174140, 40204923, 40235706, 13515163, 4131990, 4132982, 5295823, 5326606, 15485337, 15516120, 15546903, 15577686, 53472830, 54427134, 15610453, 1430929, 1431921, 2683143, 2684135, 54580057, 54581049, 2687111, 1048606, 988063, 988094, 2003902, 4864830, 8291787, 8292779, 28045204, 28075987, 68741694, 69695998, 59598833, 55488667, 55489659, 27398730, 14737555, 14738547, 14739539, 16408827, 79239038, 80193342, 81147646, 82101950, 10128878, 8581730, 4887646, 4860738, 4860769, 5693987, 61999969, 83092989, 16600469, 14754419, 1826117, 1012150]
+
+File 2 Direct Fingerprint: 
+[986234, 1944971, 3038961, 8322105, 28955240, 55812369, 97778309, 25070041, 4186767, 79965957, 66155798, 104050942, 105005246, 105959550, 106913854, 107868158, 108820602, 56239890, 10969691, 35094697, 114548286, 115502590, 116456894, 117411074, 113596958, 28753213, 62049011, 80589987, 19702670, 123036737, 35095038, 114559198, 115841203, 126954176, 125584844, 56827526, 108963450, 56889030, 111437250, 80243376]
+
+File 2 Direct Sorted Fingerprint: 
+[986234, 1944971, 3038961, 8280255, 27657890, 28106739, 1831077, 1832069, 1833061, 3501357, 65369607, 65826113, 65827105, 66155798, 104050942, 105005246, 105959550, 56150982, 9202350, 8518149, 8519141, 35063914, 35094697, 114548286, 115502590, 28692608, 26933048, 26936923, 60779499, 18299517, 19641104, 19671887, 19702670, 35095007, 35095038, 114559198, 56765650, 56231396, 56231396, 56232388, 56233380, 80246910, 80246910, 80246910, 27523536]
+
+Direct Size of intersection: 0
+Direct Size of union: 131
+Direct Size of smaller set: 40
+Direct Size of larger set: 91
+Direct Jaccard: 0.000
+Direct Jaccard with smaller set: 0.000
+
+Stats after sorting
+
+Direct Size of intersection: 0
+Direct Size of union: 146
+Direct Size of smaller set: 45
+Direct Size of larger set: 101
+Direct Jaccard: 0.000
+Direct Jaccard with smaller set: 0.000
+
+
+Cluster IDs
+{occur_VBZ=7, case_NN=4, frequency_NNS=16, word_NN=3, correspond_VBZ=5, document_NNS=2, remain_VBP=8, occur_VBG=7, vector_NNS=11, remain_VBG=8, frequency_NN=16, eliminate_VB=6, value_NN=14, identifier_NN=10, example_NN=4, weighting_NN=15, represent_VB=5, vector_NN=11, system_NN=1, result_VB=13, match_VB=5, value_NNS=14, use_VBN=12, term_NN=9, scheme_NNS=1, document_NN=2, word_NNS=3, result_VBG=13, use_VBG=12, identifier_NNS=10, weight_NNS=15, model_NN=4, represent_VBN=5, eliminate_VBP=6, represent_VBG=5, term_NNS=9}
+
+File 1 hash sequence:
+
+11 18 4 9 11 4 19 4 5 20 2 21 22 11 10 4 23 9 12 24 25 24 26 27 28 29 30 31 32 24 26 1 2 5 11 33 5 34 9 9 7 2 14 11 35 36 37 38 39 40 14 41 42 9 15 43 44 45 42 1 46 47 15 48 4 49 9 50 51 52 9 53 3 54 55 56 3 57 9 58 11 59 3 60 59 61 3 7 62 11 18 4 63 64 65 2 66 5 67 68 69 70 71 72 73 58 74 54 75 76 5 2 9 3 77 78 13 79 80 81 82 83 2 84 85 38 9 60 86 87 13 79 88 81 89 9 90 2 91 11 18 92 
+
+File 1 Fingerprint: 
+
+[3972898, 4264112, 3862321, 2494136, 10461198, 9376756, 4388298, 8693020, 11822005, 22933149, 22965885, 24843710, 25798014, 26752318, 27706622, 28660647, 22940093, 988249, 2007591, 4977174, 5639427, 8522582, 6538024, 2275772, 11237159, 33432446, 34386750, 35341054, 36294521, 14191366, 8801241, 15177507, 41066754, 38863336, 2339539, 15288146, 5164042, 9851862, 47745642, 9895169, 4433868, 51562548, 4479097, 10051967, 11921143, 4616613, 56308090, 3039023, 8322818, 10700766, 5634436, 60150974, 3820130, 6681089, 63970174, 64924478, 65878782, 66833086, 67786894, 55822971, 52177650, 4685929, 2120431, 5139831, 14438653, 75421822, 76376126, 76795184, 4432349, 35422243, 10184492, 58057296, 14446341, 75660367, 77468039, 10997622, 4569152]
+
+File 1 Sorted Fingerprint: 
+
+[3822238, 3818642, 1971631, 2015868, 2195606, 4003247, 3972526, 3974448, 8692028, 8693020, 11821075, 22904319, 22935102, 22965885, 24843710, 25798014, 23089017, 22969853, 1664483, 1006973, 988714, 988249, 2007591, 4778154, 4895427, 2064507, 2064662, 2066584, 2189282, 10610556, 11237159, 33432446, 14100071, 8769466, 8799257, 8800249, 8801241, 2218422, 1416049, 4187604, 4009850, 4010842, 9821079, 9851862, 3090297, 3091289, 4403085, 4433868, 3094265, 3095257, 3155831, 3156823, 4586791, 3037690, 2991593, 4041005, 4041036, 3787394, 2060508, 2061500, 6650306, 6681089, 63970174, 64924478, 55750834, 51670459, 6300750, 2070428, 2007002, 1941499, 1947451, 3115097, 3234261, 14377087, 14407870, 14438653, 4341488, 3062459, 9504042, 9504073, 10184492, 13878576, 14439831, 10812087, 2203480, 2194862]
+
+File 2 hash sequence:
+
+11 18 4 2 5 93 3 94 95 5 2 11 96 97 3 16 89 63 98 99 100 101 102 4 103 104 3 105 106 2 6 35 107 108 109 110 111 112 109 2 113 59 114 3 12 115 24 116 117 6 35 107 108 118 16 119 16 3 120 121 104 3 8 122 104 10 8 3 104 10 2 
+
+File 2 Fingerprint: 
+
+[3761354, 2085463, 5662367, 4690734, 2270006, 13111977, 3334701, 17491316, 61199580, 93553598, 94507902, 94420513, 6862594, 6000546, 2062740, 6689986, 35618039, 102142334, 103096638, 104050942, 105005122, 100833793, 5273658, 57887168, 3239314, 14534877, 25732883, 6689986, 35618318, 102148069, 18336934, 14984780, 6464988, 96147027, 3129357, 11122924, 9479645, 7577795, 5878499]
+
+File 2 Sorted Fingerprint: 
+
+[1971569, 1944103, 3011805, 2089276, 2009513, 2009544, 2270006, 3193527, 3310521, 16741736, 60930469, 61199580, 6773407, 2991934, 2040606, 2062709, 2062740, 6689986, 35618039, 102142334, 103096638, 5204404, 3712963, 3188288, 3154684, 6371213, 6689986, 18071419, 15370079, 3266284, 3365298, 3366290, 3112586, 3112617, 3021725, 3021725, 3021725, 1949249]
+
+Size of intersection: 0
+Size of union: 116
+Size of smaller set: 39
+Size of larger set: 77
+Jaccard: 0.000
+Jaccard with smaller set: 0.000
+
+Stats after sorting 
+
+Size of intersection: 0
+Size of union: 124
+Size of smaller set: 38
+Size of larger set: 86
+Jaccard: 0.000
+Jaccard with smaller set: 0.000
+
+1: scheme_NNS, system_NN
+2: document_NN, document_NNS
+3: word_NN, word_NNS
+4: example_NN, case_NN, model_NN
+5: represent_VB, correspond_VBZ, match_VB, represent_VBN, represent_VBG
+6: eliminate_VB, eliminate_VBP
+7: occur_VBG, occur_VBZ
+8: remain_VBP, remain_VBG
+9: term_NNS, term_NN
+10: identifier_NN, identifier_NNS
+11: vector_NN, vector_NNS
+12: use_VBN, use_VBG
+13: result_VBG, result_VB
+14: value_NN, value_NNS
+15: weight_NNS, weighting_NN
+16: frequency_NNS, frequency_NN
+18: space_NN
+19: algebraic_JJ
+20: text_NN
+21: object_NNS
+22: general_JJ
+23: index_NN
+24: information_NN
+25: filter_VBG
+26: retrieval_NN
+27: indexing_NN
+28: relevancy_NN
+29: ranking_NNS
+30: first_JJ
+31: use_NN
+32: smart_JJ
+33: dimension_NN
+34: separate_JJ
+35: non_RB
+36: zero_CD
+37: several_JJ
+38: different_JJ
+39: way_NNS
+40: compute_VBG
+41: also_RB
+42: know_VBN
+43: develop_VBN
+44: one_CD
+45: best_JJS
+46: tf_JJ
+47: idf_NN
+48: see_VBP
+49: definition_NN
+50: depend_VBZ
+51: application_NN
+52: typically_RB
+53: single_JJ
+54: keyword_NNS
+55: longer_JJR
+56: phrase_NNS
+57: choose_VBN
+58: dimensionality_NN
+59: number_NN
+60: vocabulary_NN
+61: distinct_JJ
+62: corpus_NN
+63: follow_VBG
+64: limitation_NNS
+65: long_RB
+66: poorly_RB
+67: poor_JJ
+68: similarity_NN
+69: value_VBZ
+70: small_JJ
+71: scalar_NN
+72: product_NN
+73: large_JJ
+74: search_NN
+75: must_MD
+76: precisely_RB
+77: substring_NNS
+78: might_MD
+79: false_JJ
+80: positive_JJ
+81: match_NN
+82: semantic_JJ
+83: sensitivity_NN
+84: similar_JJ
+85: context_NN
+86: wont_NN
+87: associate_VBN
+88: negative_JJ
+89: order_NN
+90: appear_VBP
+91: lose_VBN
+92: representation_NN
+93: bag_NNS
+94: basic_JJ
+95: idea_NN
+96: certain_JJ
+97: weighted_JJ
+98: parsing_NN
+99: extraction_NN
+100: step_NNS
+101: need_VBN
+102: ignore_VBG
+103: extract_VB
+104: unique_JJ
+105: entire_JJ
+106: set_NN
+107: content_JJ
+108: bearing_NN
+109: stopword_NNS
+110: etc_NN
+111: sample_NN
+112: list_NNS
+113: count_NN
+114: occurrence_NNS
+115: heuristic_JJ
+116: theoretic_JJ
+117: criterion_NNS
+118: high_JJ
+119: low_JJ
+120: elimination_NN
+121: suppose_VB
+122: assign_VB

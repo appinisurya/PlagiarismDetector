@@ -1,0 +1,8 @@
+since_IN
+yo_NN
+fulltime_JJ
+whilst_NN
+simulum_NN
+pre_NN
+etc_NN
+whilst_VBP

@@ -1,0 +1,4 @@
+whichever_WDT
+keyword_NNS
+vsm_NN
+tf_JJ

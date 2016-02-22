@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ "$1" != "" && "$2" != "" ]]; then
+        java -Xmx1024m -cp lib/*:esalib.jar clldsystem.esa.ESAAnalyzer "$1" "$2"
+else
+        java -Xmx1024m -cp lib/*:esalib.jar clldsystem.esa.ESAAnalyzer
+fi

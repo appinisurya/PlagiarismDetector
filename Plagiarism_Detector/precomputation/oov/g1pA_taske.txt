@@ -1,0 +1,13 @@
+since_IN
+ieee_NN
+whenever_WRB
+whilst_NN
+whose_WP$
+subproblem_NN
+richard_NN
+recompute_VBG
+recursively_NN
+subproblem_NNS
+memoization_NN
+although_IN
+fibonaccus_JJ

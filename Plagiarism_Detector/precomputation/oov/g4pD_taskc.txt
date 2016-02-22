@@ -1,0 +1,5 @@
+eect_NN
+indentify_VBZ
+keyword_NNS
+formulum_NN
+tf_JJ

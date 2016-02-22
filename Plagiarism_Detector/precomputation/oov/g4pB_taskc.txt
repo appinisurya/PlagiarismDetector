@@ -1,0 +1,6 @@
+vvvv_NN
+costheta_JJ
+keyword_NNS
+cosinus_NN
+formulum_NN
+tf_JJ

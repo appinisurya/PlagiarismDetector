@@ -1,0 +1,8 @@
+since_IN
+yo_NN
+simulum_NN
+dont_VBP
+youd_NN
+pre_NN
+without_IN
+etc_NN
